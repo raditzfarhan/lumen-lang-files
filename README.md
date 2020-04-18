@@ -1,2 +1,3 @@
-# lumen-lang-files
-Missing lumen lang files
+# Missing Lumen Lang Files
+
+Add missing lumen files to `resources/lang` folder.
